@@ -61,6 +61,8 @@ Liberate
 
 ### Loading the Extension
 
+You can install the extension from the [store](https://chromewebstore.google.com/detail/liberate/oogiomeldilglbeooaenmhkfloeoeblf) or Load unpacked:  
+
 1. Open `chrome://extensions`
 2. Enable Developer Mode
 3. Click "Load unpacked"
